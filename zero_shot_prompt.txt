@@ -1,0 +1,13 @@
+Write a JavaScript function that converts a string to kebab-case
+basic_prompt.js
+// Prompt:
+// Write a JavaScript function called toKebabCase that converts a string to kebab-case.
+few_shot_prompt.js
+// Prompt:
+// Convert strings to kebab-case.
+//
+// Example:
+// "Hello World" -> "hello-world"
+// "camelCaseText" -> "camel-case-text"
+//
+// Now write a function toKebabCase that follows this pattern.
